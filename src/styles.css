@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.wrong-selection {
+  background-color: #ff0000;
+}
+
+.right-selection {
+  background-color: #0000ff;
+}
+
+.initial-selection {
+  background-color: #0000ff;
+}
